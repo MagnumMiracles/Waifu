@@ -1,0 +1,112 @@
+/* Broadselectors */
+
+
+body{
+  text-align: center;
+  line-height: 1.5;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+}
+
+h2,h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #fc5185;
+}
+
+p{
+  margin: 0;
+  font-size: 1rem;
+}
+
+em{
+  color: white;
+  font-size: 2rem;
+}
+
+
+/********************************************titlesection**********************/
+
+#title{
+  padding: 2% 10%;
+  background-color: #fc5185;
+  color: #f5f5f5;
+}
+
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    color: #f5f5f5;
+}
+
+.nav-link{
+  padding-left: 1%;
+  font-size: 1rem;
+  color: #f5f5f5;
+}
+
+
+.subtitle{
+  color: #f5f5f5;
+  font-family: 'Montserrat', sans-serif;
+  margin: 3% 0;
+  font-size: 3rem;
+}
+
+.band-maid-img{
+  height: 30rem;
+  width: 20rem;
+}
+
+/* preferencessection */
+
+#expertise{
+background-color: white;
+margin-top: 2%;
+}
+
+.nerd-intro{
+  padding: 2% 30%;
+}
+
+.nerdy-img{
+  height: 15rem;
+  width: 15rem;
+}
+
+.skills{
+  padding: 2% 15%;
+}
+
+.jisoo-3d,.sakurai-2d{
+  border-radius: 50%;
+  height: 12rem;
+  width: 12rem;
+}
+
+/* favoritessection */
+
+#favorites{
+  background-color: white;
+  padding: 2% 25%;
+}
+
+.girls{
+  text-align: left;
+  text-indent: 15px;
+}
+
+.soyeon-img,.miku-img,.moonbyul-img,.asuka-favorites-img,.kurisu-img,.sua-img{
+  height: 15rem;
+  width: 15rem;
+}
+
+/* carousel */
+
+#carousel{
+  background-color: #fc5185;
+  padding: 2% 5%;
+}
